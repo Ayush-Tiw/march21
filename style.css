@@ -1,0 +1,27 @@
+/* creating a progress bar using HTML,CSS,JS and callback function - */
+#suman{
+    width:200px;
+    background-color:lightblue;
+}
+
+#progressBar{
+    width:0px;
+    height:30px;
+    background-color:green;
+    text-align:center;
+    line-height: 30px;
+    color:black;
+}
+
+.button{
+    display:inline-block;
+    border-radius: 20px;
+    background-color:aqua;
+    border:none;
+    text-align:center;
+    font-size:18px;
+    padding:16px;
+    cursor:pointer;
+    margin:5px;
+    
+}
